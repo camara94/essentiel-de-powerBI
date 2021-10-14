@@ -61,3 +61,8 @@ Dans ce cours, nous allons suivre une methodologie part à part en cinq etapes p
 ### Power BI Report Server
 
  ![bi 16](images/16.png)
+
+ ### Fonctionnalités de Power BI Report Server
+![bi 17](images/17.png)
+![bi 18](images/18.png)
+![bi 19](images/19.png)
