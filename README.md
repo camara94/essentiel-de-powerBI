@@ -31,5 +31,8 @@ Dans ce cours, nous allons suivre une methodologie part à part en cinq etapes p
 
 ![power bi 8](images/8.png)
 
- ## Acteurs dominant sur le Marché de BI
-    ![power bi 9](images/9.png)
+## Acteurs dominant sur le Marché de BI
+ ![power bi 9](images/9.png)
+## Essentiel de BI
+
+![bi 10](images/10.png)
