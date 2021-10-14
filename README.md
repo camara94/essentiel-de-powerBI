@@ -8,3 +8,8 @@ La Business Intelligence c'est un choix d'avenir. C'est une compétence précieu
 Power BI est l'un des outils les plus efficients sur le marché. Et en plus il a un très bon rapport qualité prix sur le marché.
 ![power bi 1](images/2.png)
 ![power bi 3](images/3.png)
+
+## Methodologie du Cours
+Dans ce cours, nous allons suivre une methodologie part à part en cinq etapes pour que nous puissions créer nos reporting dynamic et interactif et être en mesure de partager nos travaux avec d'autres utilisateurs.
+
+![power bi 4](images/4.png)
