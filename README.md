@@ -13,3 +13,11 @@ Power BI est l'un des outils les plus efficients sur le marché. Et en plus il a
 Dans ce cours, nous allons suivre une methodologie part à part en cinq etapes pour que nous puissions créer nos reporting dynamic et interactif et être en mesure de partager nos travaux avec d'autres utilisateurs.
 
 ![power bi 4](images/4.png)
+
+## La Business Intelligence & Power BI
+<< Prise de decision sur la base d'informations probantes >> <br/>
+  = <br />
+  démontrer que l'on prend une décision intelligente.
+
+  ![power bi 5](images/5.png)
+  ![power bi 6](images/6.png)
