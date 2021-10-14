@@ -39,3 +39,7 @@ Dans ce cours, nous allons suivre une methodologie part à part en cinq etapes p
  ## Power BI: un hératage
 
 ![bi 11](images/11.png)
+
+## Ce qu'il faut avoir en tête en travaillant Power BI
+
+![bi 12](images/12.png)
