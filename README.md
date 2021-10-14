@@ -85,3 +85,8 @@ Dans ce cours, nous allons suivre une methodologie part à part en cinq etapes p
 ## Point Forts Stratégiques strde Power BI
 
 ![bi 24](images/24.png)
+
+
+## Point Pratiques de Power BI
+
+![bi 25](images/25.png)
