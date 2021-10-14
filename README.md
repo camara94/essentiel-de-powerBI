@@ -54,3 +54,6 @@ Dans ce cours, nous allons suivre une methodologie part à part en cinq etapes p
   ### Power BI Premium
 
 ![bi 14](images/14.png)
+
+### Fonctionnalités de Power BI Premium
+![bi 15](images/15.png)
