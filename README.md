@@ -98,3 +98,28 @@ Dans ce cours, nous allons suivre une methodologie part à part en cinq etapes p
 ## Licences Power BI
 
 ![bi 27](images/27.png)
+
+## Méthodologie de travail
+Dans ce cours, nous allons étudier les affaires d'une entreprise de vente de testile en ligne.
+
+![bi 28](images/28.png)
+
+### Qu'est ce qu'on étudie "Les ventes" ?
+![bi 29](images/29.png)
+
+### Quels sont les phénomènes ?
+
+![bi 30](images/30.png)
+
+### Explication des phénomènes à travers un schema
+![bi 31](images/31.png)
+
+## Etape 1: Se connecter à ses données 
+* A: Faire le lien entre ses sources de données et notre rapport power BI Desktop. 
+  Alors ces données peuvent être différentes les unes des autres :
+  * Excel
+  * csv
+  * texte
+  * access
+![bi 32](images/32.png)
+* B: permet de lier des tables entre elles 
