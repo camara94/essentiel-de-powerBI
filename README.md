@@ -77,3 +77,7 @@ Dans ce cours, nous allons suivre une methodologie part à part en cinq etapes p
 
 ## Ce que fait Power BI 
 ![bi 22](images/22.png)
+
+## Exemple de Rapport Power BI
+
+![bi 23](images/23.png)
