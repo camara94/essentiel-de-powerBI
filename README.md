@@ -43,3 +43,10 @@ Dans ce cours, nous allons suivre une methodologie part à part en cinq etapes p
 ## Ce qu'il faut avoir en tête en travaillant Power BI
 
 ![bi 12](images/12.png)
+
+## 3 Outils de Power BI
+   * **PowerBI Desktop**: C'est notre espace de travail donc c'est de là que nous allons construire nos rapport en suivant notre methode en cinq étapes 
+   * **Power BI Service**: C'est le site internet **powerbi.microsoft.com** c'est de là qu'on accède via un login et il permet de faire un lien entre nos rapport que nous avons crée dans **Power BI Desktop** et les personnes avec lesquelles nous voulons collaborer.
+   * **Power BI Mobile**: C'est une application qui est disponible sur **Android** et **IOS** qui permet avoir accèss à nos sur mobile de façon optimiser et configurer les notifications.
+   
+  ![bi 13](images/13.png)
