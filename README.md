@@ -57,3 +57,7 @@ Dans ce cours, nous allons suivre une methodologie part à part en cinq etapes p
 
 ### Fonctionnalités de Power BI Premium
 ![bi 15](images/15.png)
+
+### Power BI Report Server
+
+ ![bi 16](images/16.png)
