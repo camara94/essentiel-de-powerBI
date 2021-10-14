@@ -50,3 +50,7 @@ Dans ce cours, nous allons suivre une methodologie part à part en cinq etapes p
    * **Power BI Mobile**: C'est une application qui est disponible sur **Android** et **IOS** qui permet avoir accèss à nos sur mobile de façon optimiser et configurer les notifications.
    
   ![bi 13](images/13.png)
+  ## Pour les Pros
+  ### Power BI Premium
+
+![bi 14](images/14.png)
