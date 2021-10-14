@@ -109,3 +109,6 @@ Dans ce cours, nous allons étudier les affaires d'une entreprise de vente de te
 ### Quels sont les phénomènes ?
 
 ![bi 30](images/30.png)
+
+### Explication des phénomènes à travers un schema
+![bi 31](images/31.png)
