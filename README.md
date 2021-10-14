@@ -21,3 +21,12 @@ Dans ce cours, nous allons suivre une methodologie part à part en cinq etapes p
 
   ![power bi 5](images/5.png)
   ![power bi 6](images/6.png)
+## Historique
+* Création des base de donnée en 1969 par Edgar Codd
+* Naissance des application de collecte de donnée en 1970 encestre d'excel
+* Puis il y a eu les bésoin de croiser les donnée d'où est né les entrepôts de données ( datawarehouse ) en 1980 qui permet un meilleurs accèss et gestion des données.
+* en suite les bésoins continuaient d'augmenter ce qui à provoqué la naissance de BI en 1989 evoquer pour première fois .
+  
+![power bi 7](images/7.png)
+
+![power bi 8](images/8.png)
