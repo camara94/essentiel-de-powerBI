@@ -112,3 +112,14 @@ Dans ce cours, nous allons étudier les affaires d'une entreprise de vente de te
 
 ### Explication des phénomènes à travers un schema
 ![bi 31](images/31.png)
+
+## Etape 1: Se connecter à ses données 
+* A: Faire le lien entre ses sources de données et notre rapport power BI Desktop. 
+  Alors ces données peuvent être différentes les unes des autres :
+  * Excel
+  * csv
+  * texte
+  * access
+![bi 32](images/32.png)
+* B: permet de lier des tables entre elles. Pour créer un modèle relationnelle.
+   ![bi 33](images/33.png)
