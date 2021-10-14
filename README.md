@@ -36,3 +36,6 @@ Dans ce cours, nous allons suivre une methodologie part à part en cinq etapes p
 ## Essentiel de BI
 
 ![bi 10](images/10.png)
+ ## Power BI: un hératage
+
+![bi 11](images/11.png)
