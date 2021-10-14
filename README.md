@@ -74,3 +74,6 @@ Dans ce cours, nous allons suivre une methodologie part à part en cinq etapes p
 ## Notre Sujet d'études dans ce tutoriel
 
 ![bi 21](images/21.png)
+
+## Ce que fait Power BI 
+![bi 22](images/22.png)
