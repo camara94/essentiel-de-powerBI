@@ -105,3 +105,7 @@ Dans ce cours, nous allons étudier les affaires d'une entreprise de vente de te
 ![bi 28](images/28.png)
 ### Qu'est ce qu'on étudie Les ventes ?
 ![bi 29](images/29.png)
+
+### Quels sont les phénomènes ?
+
+![bi 30](images/30.png)
