@@ -66,3 +66,7 @@ Dans ce cours, nous allons suivre une methodologie part à part en cinq etapes p
 ![bi 17](images/17.png)
 ![bi 18](images/18.png)
 ![bi 19](images/19.png)
+
+### Power BI Embedded
+
+![bi 20](images/20.png)
