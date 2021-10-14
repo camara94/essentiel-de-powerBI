@@ -90,3 +90,7 @@ Dans ce cours, nous allons suivre une methodologie part à part en cinq etapes p
 ## Point Pratiques de Power BI
 
 ![bi 25](images/25.png)
+
+## Quand Utilisés Power BI
+
+![bi 26](images/26.png)
