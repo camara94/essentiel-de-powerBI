@@ -70,3 +70,7 @@ Dans ce cours, nous allons suivre une methodologie part à part en cinq etapes p
 ### Power BI Embedded
 
 ![bi 20](images/20.png)
+
+## Notre Sujet d'études dans ce tutoriel
+
+![bi 21](images/21.png)
