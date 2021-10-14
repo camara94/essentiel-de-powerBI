@@ -94,3 +94,7 @@ Dans ce cours, nous allons suivre une methodologie part à part en cinq etapes p
 ## Quand Utilisés Power BI
 
 ![bi 26](images/26.png)
+
+## Licences Power BI
+
+![bi 27](images/27.png)
