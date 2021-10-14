@@ -81,3 +81,7 @@ Dans ce cours, nous allons suivre une methodologie part à part en cinq etapes p
 ## Exemple de Rapport Power BI
 
 ![bi 23](images/23.png)
+
+## Point Forts Stratégiques strde Power BI
+
+![bi 24](images/24.png)
