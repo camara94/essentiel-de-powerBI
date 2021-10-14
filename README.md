@@ -4,3 +4,7 @@ Power BI est un ensemble de services logiciels, d’applications et de connecteu
 ![power bi 1](images/1.png)
 ## Business Intelligence
 La Business Intelligence c'est un choix d'avenir. C'est une compétence précieuse qui est de plus en plus recherchée et devient indispensable à maitriser dans le IT. C'est aussi un outil qui a été conçu pour la BI accessible au plus grand nombre .
+## Power BI 
+Power BI est l'un des outils les plus efficients sur le marché. Et en plus il a un très bon rapport qualité prix sur le marché.
+![power bi 1](images/2.png)
+![power bi 3](images/3.png)
