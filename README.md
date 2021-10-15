@@ -136,3 +136,5 @@ Dans ce cours, nous allons étudier les affaires d'une entreprise de vente de te
 ![bi 38](images/38.png)
 ## Organiser visuellement
 ![bi 39](images/39.png)
+## Definir les relations
+![bi 40](images/40.png)
