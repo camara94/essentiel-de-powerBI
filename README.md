@@ -134,4 +134,5 @@ Dans ce cours, nous allons étudier les affaires d'une entreprise de vente de te
  ![bi 34](images/34.png)
 ## Séparer les tables des faits aux tables des ventes
 ![bi 38](images/38.png)
-
+## Organiser visuellement
+![bi 39](images/39.png)
