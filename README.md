@@ -123,3 +123,21 @@ Dans ce cours, nous allons étudier les affaires d'une entreprise de vente de te
 ![bi 32](images/32.png)
 * B: permet de lier des tables entre elles. Pour créer un modèle relationnelle.
    ![bi 33](images/33.png)
+  
+## Modèle relationnel des données
+ ![bi 35](images/35.png)
+## Dans le cas des relation de plusieurs à plusieurs
+ ![bi 36](images/36.png) 
+## Une table peut être liée à plusieurs autres tables
+![bi 37](images/37.png) 
+## Différence entre une table de fait et une table de dimension
+ ![bi 34](images/34.png)
+ 
+## Séparer les tables des faits aux tables des ventes
+![bi 38](images/38.png)
+
+## Organiser visuellement
+![bi 39](images/39.png)
+
+## Definir les relations
+![bi 40](images/40.png)
