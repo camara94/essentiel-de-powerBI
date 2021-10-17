@@ -153,3 +153,7 @@ Dans ce cours, nous allons étudier les affaires d'une entreprise de vente de te
 ### 1- La complétude en terme de volume
 
 ![bi 43](images/45.png)
+
+### 2- La complétude en terme de couverture
+
+![bi 43](images/46.png)
