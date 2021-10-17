@@ -214,3 +214,7 @@ Dans ce cours, nous allons étudier les affaires d'une entreprise de vente de te
 ## La fonction ISBLANK
 
 ![BI 61](images/61.png)
+
+## La fonction SWITCH
+
+![BI 62](images/62.png)
