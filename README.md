@@ -210,3 +210,7 @@ Dans ce cours, nous allons étudier les affaires d'une entreprise de vente de te
 ## La fonction DIVIDE
 
 ![BI 60](images/60.png)
+
+## La fonction ISBLANK
+
+![BI 61](images/61.png)
