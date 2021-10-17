@@ -173,3 +173,7 @@ Dans ce cours, nous allons étudier les affaires d'une entreprise de vente de te
 ## Formaliser
 
 ![bi 50](images/50.png)
+
+## Type de calcul en PowerBI
+
+![bi 51](images/50.png)
