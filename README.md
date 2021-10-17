@@ -230,3 +230,7 @@ Dans ce cours, nous allons étudier les affaires d'une entreprise de vente de te
 ## La fonction LOOKUPVALUE
 
 ![BI 65](images/65.png)
+
+## La fonction DATESYTD
+
+![BI 66](images/66.png)
