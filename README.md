@@ -206,3 +206,7 @@ Dans ce cours, nous allons étudier les affaires d'une entreprise de vente de te
 ## Les SLICERS
 
 [bi 59](images/59.png)
+
+## La fonction DIVIDE
+
+![BI 60](images/60.png)
