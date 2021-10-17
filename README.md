@@ -149,31 +149,3 @@ Dans ce cours, nous allons étudier les affaires d'une entreprise de vente de te
 ## Vérification des données
 
 ![bi 43](images/44.png)
-
-### 1- La complétude en terme de volume
-
-![bi 43](images/45.png)
-
-### 2- La complétude en terme de couverture
-
-![bi 43](images/46.png)
-
-### 3- La fiabilité
-
-![bi 43](images/47.png)
-
-### 4- La pertinence
-
-![bi 48](images/48.png)
-
-### 5- La qualité des rélation
-
-![bi 49](images/49.png)
-
-## Formaliser
-
-![bi 50](images/50.png)
-
-## Type de calcul en PowerBI
-
-![bi 51](images/51.png)
