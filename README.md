@@ -218,3 +218,7 @@ Dans ce cours, nous allons étudier les affaires d'une entreprise de vente de te
 ## La fonction SWITCH
 
 ![BI 62](images/62.png)
+
+## La fonction TOPN
+
+![BI 63](images/63.png)
