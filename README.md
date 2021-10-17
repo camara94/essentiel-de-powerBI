@@ -182,4 +182,8 @@ Dans ce cours, nous allons étudier les affaires d'une entreprise de vente de te
 ### 4 étapes de calcul en DAX
 
 ![bi 52](images/52.png)
+![bi 53](images/53.png)
 
+## Annuaire des fonction DAX
+
+![bi 54](images/54.png)
