@@ -239,3 +239,11 @@ Dans ce cours, nous allons étudier les affaires d'une entreprise de vente de te
 
 ![BI 67](images/67.png)
 ![BI 68](images/68.png)
+
+## Les XFounction
+
+![BI 69](images/69.png)
+
+![BI 70](images/70.png)
+
+![BI 71](images/71.png)
