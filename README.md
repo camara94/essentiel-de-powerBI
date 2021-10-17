@@ -162,3 +162,6 @@ Dans ce cours, nous allons étudier les affaires d'une entreprise de vente de te
 
 ![bi 43](images/47.png)
 
+### 4- La pertinence
+
+![bi 48](images/48.png)
