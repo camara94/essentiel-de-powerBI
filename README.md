@@ -198,3 +198,8 @@ Dans ce cours, nous allons étudier les affaires d'une entreprise de vente de te
 ## La fonction CALCULATE
 
 ![bi 57](images/57.png)
+
+## La fonction FILTER
+
+![bi 58](images/58.png)
+
