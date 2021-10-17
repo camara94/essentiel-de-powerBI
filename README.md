@@ -176,3 +176,10 @@ Dans ce cours, nous allons étudier les affaires d'une entreprise de vente de te
 ## Type de calcul en PowerBI
 
 ![bi 51](images/51.png)
+
+## Création des colonnes calculées et mesures
+
+### 4 étapes de calcul en DAX
+
+![bi 52](images/52.png)
+
