@@ -187,3 +187,6 @@ Dans ce cours, nous allons étudier les affaires d'une entreprise de vente de te
 ## Annuaire des fonction DAX
 
 ![bi 54](images/54.png)
+
+## Quelques conseils
+![bi 55](images/55.png)
