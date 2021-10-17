@@ -169,3 +169,6 @@ Dans ce cours, nous allons étudier les affaires d'une entreprise de vente de te
 ### 5- La qualité des rélation
 
 ![bi 49](images/49.png)
+## Formaliser
+
+![bi 50](images/50.png)
