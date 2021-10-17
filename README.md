@@ -222,3 +222,7 @@ Dans ce cours, nous allons étudier les affaires d'une entreprise de vente de te
 ## La fonction TOPN
 
 ![BI 63](images/63.png)
+
+## La fonction SEARCH
+
+![BI 64](images/64.png)
