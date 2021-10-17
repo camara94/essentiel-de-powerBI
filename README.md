@@ -226,3 +226,7 @@ Dans ce cours, nous allons étudier les affaires d'une entreprise de vente de te
 ## La fonction SEARCH
 
 ![BI 64](images/64.png)
+
+## La fonction LOOKUPVALUE
+
+![BI 65](images/65.png)
