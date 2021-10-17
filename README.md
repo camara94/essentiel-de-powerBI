@@ -145,3 +145,7 @@ Dans ce cours, nous allons étudier les affaires d'une entreprise de vente de te
 ![bi 42](images/42.png)
 ## Jointure externe entière
 ![bi 43](images/43.png)
+
+## Vérification des données
+
+![bi 43](images/44.png)
