@@ -203,3 +203,6 @@ Dans ce cours, nous allons étudier les affaires d'une entreprise de vente de te
 
 ![bi 58](images/58.png)
 
+## Les SLICERS
+
+[bi 59](images/59.png)
