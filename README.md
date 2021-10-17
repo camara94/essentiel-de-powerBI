@@ -149,3 +149,7 @@ Dans ce cours, nous allons étudier les affaires d'une entreprise de vente de te
 ## Vérification des données
 
 ![bi 43](images/44.png)
+
+### 1- La complétude en terme de volume
+
+![bi 43](images/45.png)
