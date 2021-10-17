@@ -234,3 +234,8 @@ Dans ce cours, nous allons étudier les affaires d'une entreprise de vente de te
 ## La fonction DATESYTD
 
 ![BI 66](images/66.png)
+
+## Quelques autres fonctions
+
+![BI 67](images/67.png)
+![BI 68](images/68.png)
