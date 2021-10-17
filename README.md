@@ -157,3 +157,7 @@ Dans ce cours, nous allons étudier les affaires d'une entreprise de vente de te
 ### 2- La complétude en terme de couverture
 
 ![bi 43](images/46.png)
+
+### 3- La fiabilité
+
+![bi 43](images/47.png)
