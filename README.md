@@ -165,3 +165,7 @@ Dans ce cours, nous allons étudier les affaires d'une entreprise de vente de te
 ### 4- La pertinence
 
 ![bi 48](images/48.png)
+
+### 5- La qualité des rélation
+
+![bi 49](images/49.png)
