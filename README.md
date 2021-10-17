@@ -195,3 +195,6 @@ Dans ce cours, nous allons étudier les affaires d'une entreprise de vente de te
 
 ![bi 56](images/56.png)
 
+## La fonction CALCULATE
+
+![bi 57](images/57.png)
