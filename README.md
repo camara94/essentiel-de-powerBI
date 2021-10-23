@@ -297,3 +297,31 @@ Pour hiérarchiser les information nous pouvons aussi utiliser des couleurs. Plu
 
 ![image 78](images/78.png)
 ![image 79](images/79.png)
+
+## Choisir un visuel par information
+
+![image 80](images/80.png)
+
+En fait selon le type d'information, il existe une convention:
+
+![image 81](images/81.png)
+
+![image 82](images/82.png)
+
+Pour Choisir le type représentation selon le type de donnée veuillez consulter ce site:
+
+[https://datavizcatalogue.com](https://datavizcatalogue.com)
+
+Un visuel doit permettre de savoir ce qui est représenté, sur quelle période temporaire, eventuellement s'il y a des cas exceptionels, des cas non traités, des cas exclus on doit leurs fait figurés ou en sous-titre dans le visuel.
+* Quel est le logiciel utilisé.
+* Quels sont les ordres de grandeurs.
+* Quel est le niveau de performance.
+* Quels sont les objectifs.
+* Quelle est leur cible.
+
+![image 83](images/83.png)
+
+---
+**Notes**
+
+Attention un visuel sert à clarifier les choses, mais pas à leurs simplifiées.
