@@ -325,3 +325,7 @@ Un visuel doit permettre de savoir ce qui est représenté, sur quelle période 
 **Notes**
 
 Attention un visuel sert à clarifier les choses, mais pas à leurs simplifiées.
+
+## Les étapes importantes d'un projet Power BI
+![image 84](images/84.png)
+![image 85](images/85.png)
