@@ -281,3 +281,13 @@ Pour choisir votre mode de visualisation, il faut prendre en compte deux critèr
 
 ![image 75](images/75.png)
 
+## Organiser 
+Pour la création d'un dashbord. Si on ne les décompose pas bien, on crée la comlexité, on freine la lecture et on manque de clarté. 
+
+Donc la solution c'est de bien découper nos visuels page par page et chaque en différets segment.
+
+![image 76](images/76.png)
+
+Il faut aussi structurer les information et les hiérachiser c'est à dire donnée un sens de lecture et lors qu'on voie il faut que notre visuel saute au yeux. par exemple en commençant par les informations les plus importantes en haut à gauche parce que c'est naturellement de là que notre regarde porte en premier lieu ce sont des techniques des journalistes de  la presse donc à mesure que notre regard balaye la page du haut à gauche vers la droite en bas. Il faut qu'on puisse entrée dans les niveaux de détails plus micro.
+
+![image 77](images/77.png)
