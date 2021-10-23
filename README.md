@@ -247,3 +247,18 @@ Dans ce cours, nous allons étudier les affaires d'une entreprise de vente de te
 ![BI 70](images/70.png)
 
 ![BI 71](images/71.png)
+
+## Présentation 
+
+### Mode de répresentation 
+Dans le monde de la visualisation, il y a quatre modes de représentation courant utilisés.
+
+1. Il y a les **Rapports**: c'est un ensemble de graphique qui sont commentés avec du text qui sert à un phenomène en profondeur, à argumenter un point de vue ou à proposer des solution.
+   
+2. **Dashbords**: un dashbord est un ensemble de graphique qui met en disposition du decideur des chiffres clés ou la synthèse d'une activité ou un phenomène sous plusieurs dimensions.
+   
+3. **Visuels Exploratoires**: c'est une series de boutons, de filtre et d'options à chocher et decocher qui vous permet d'explorer des données.
+   
+4. **Les Infographies**: ce sont des visuels vraiment pédagogiques.
+  
+   ![image 72](images/72.png)
