@@ -291,3 +291,9 @@ Donc la solution c'est de bien découper nos visuels page par page et chaque en 
 Il faut aussi structurer les information et les hiérachiser c'est à dire donnée un sens de lecture et lors qu'on voie il faut que notre visuel saute au yeux. par exemple en commençant par les informations les plus importantes en haut à gauche parce que c'est naturellement de là que notre regarde porte en premier lieu ce sont des techniques des journalistes de  la presse donc à mesure que notre regard balaye la page du haut à gauche vers la droite en bas. Il faut qu'on puisse entrée dans les niveaux de détails plus micro.
 
 ![image 77](images/77.png)
+
+## Utilisation des couleurs
+Pour hiérarchiser les information nous pouvons aussi utiliser des couleurs. Plus la couleur est chaude plus l'information est macro ou importante.
+
+![image 78](images/78.png)
+![image 79](images/79.png)
