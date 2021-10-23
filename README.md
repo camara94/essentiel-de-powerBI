@@ -277,3 +277,7 @@ Pour choisir votre mode de visualisation, il faut prendre en compte deux critèr
    
    ![image 74](images/74.png)
 
+## Map de Visualisation
+
+![image 75](images/75.png)
+
