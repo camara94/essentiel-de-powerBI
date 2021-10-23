@@ -262,3 +262,18 @@ Dans le monde de la visualisation, il y a quatre modes de représentation couran
 4. **Les Infographies**: ce sont des visuels vraiment pédagogiques.
   
    ![image 72](images/72.png)
+## Choix du mode de visualisation
+Pour choisir votre mode de visualisation, il faut prendre en compte deux critères qui réviennent à se poser les questions:
+
+1. **Quel est mon public, quelle est ma cible**: c'est à dire à qui s'adresse mes informations, qui va les lire.
+
+    ![image 73](images/73.png)
+
+    Donc une bonne manière de distinguer ces cibles, c'est en observant leurs niveaux hierarchiques et le niveau d'information dont ils ont bésoins.
+
+    Un autre point important est d'observer s'ils sont internes ou externes à notre organisation.
+
+2. **L'objectif de la cible**: il faut se rappeler que les visuels servent à présenter les informations à partir des données, en fait ils servent à rendre l'invisible visible. Mais c'est pourquoi vous avez bésoin de rendre l'invisible visible ou pourquoi vous avez bésoin de comprendre le phénomène que vous étudiez. ça pourrait être de prendre des décisions, d'analyser quelques choses plus en détail, de piloter au quotidien une activité, d'expliquer un phénomène précis.
+   
+   ![image 74](images/74.png)
+
